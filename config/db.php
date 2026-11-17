@@ -1,8 +1,9 @@
 <?php
-$host = 'localhost';
-$db   = 'd92360pp_n';      
-$user = 'd92360pp'; 
-$pass = 'пароль';    
+//InfinityFree
+$host = 'sql306.infinityfree.com';    //MySQL Host Name
+$db   = 'if0_43459468_hotel';    //MySQL Database Name
+$user = 'if0_43459468';          //MySQL User Name
+$pass = 'KR7feybNSn'; 
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
