@@ -1,1 +1,2 @@
-# demo-exam3
+# 3 задание демонстрационного экзамена
+## сайт: http://larina454.infinityfreeapp.com/
